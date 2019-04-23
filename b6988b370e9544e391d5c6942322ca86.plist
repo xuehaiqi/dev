@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/8a9103ab604a45bea8af53fdde6272a7.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/c7434a4899da49069c51203d2f146755.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/9cc646a2b5f041258de48f73024ca8f6.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.dcgz.wingSaler4</string>
+				<key>bundle-version</key>
+				<string>1.0.46</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>翼销售</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
