@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/7446d3642ac54310a38347dc9c07343f.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/8cc3fb8b6853497a8290f92d50a8ea3a.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://114.135.115.112:8090/edwapp1/bonc/workspace/RSF/app/apk/ios/57efc5f158674b3d8a3d065789077cab.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.bonc.DistrictGF.TELECOM.GZ</string>
+				<key>bundle-version</key>
+				<string>2019021301</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>营销沙盘</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
